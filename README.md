@@ -1,6 +1,6 @@
 ***HOW TO RUN***
 
 - WGET VERSION
-  ```bash <(wget -qO- https://raw.githubusercontent.com/USERNAME/REPO/main/clone.sh) torvalds```
+  ```bash <(wget -qO- https://raw.githubusercontent.com/hanzzly/bureclo/main/clone.sh) username```
 - CURL VERSION
-  ```bash <(curl -s https://raw.githubusercontent.com/USERNAME/REPO/main/clone.sh) torvalds```
+  ```bash <(curl -s https://raw.githubusercontent.com/hanzzly/bureclo/main/clone.sh) username```
